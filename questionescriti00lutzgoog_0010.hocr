@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./questionescriti00lutzgoog_0010.png"; bbox 0 0 3272 5046; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 308 551 339 619">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 308 551 339 619">
+     <span class='ocr_line' id='line_1_1' title="bbox 308 551 339 619; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 308 551 339 619; x_wconf 79' lang='grc' dir='ltr'>Θ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 414 811 1247 1164">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 414 800 1247 1164">
+     <span class='ocr_line' id='line_1_2' title="bbox 414 811 1247 1164; baseline -0.005 -194"><span class='ocrx_word' id='word_1_2' title='bbox 414 861 884 1164; x_wconf 60' lang='lat' dir='ltr'>QUAEST10N9S</span> <span class='ocrx_word' id='word_1_3' title='bbox 935 811 1247 1024; x_wconf 50' lang='lat' dir='ltr'>91³chss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1 1291 1466 1744">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1 1291 1466 1744">
+     <span class='ocr_line' id='line_1_3' title="bbox 156 1291 1466 1518; baseline -0.002 -56.913"><span class='ocrx_word' id='word_1_4' title='bbox 156 1291 792 1518; x_wconf 81' lang='lat' dir='ltr'>CICERONIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 829 1291 1466 1461; x_wconf 77' lang='lat' dir='ltr'>ORATIONES</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1 1575 1155 1744; baseline 0.001 -2"><span class='ocrx_word' id='word_1_6' title='bbox 1 1637 3 1646; x_wconf 65' lang='grc'>’</span> <span class='ocrx_word' id='word_1_7' title='bbox 507 1575 1155 1744; x_wconf 77' lang='lat' dir='ltr'>PHILIPPICAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 474 2233 1187 2331">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 474 2233 1187 2331">
+     <span class='ocr_line' id='line_1_5' title="bbox 474 2233 1187 2331; baseline 0 -7"><span class='ocrx_word' id='word_1_8' title='bbox 474 2233 807 2331; x_wconf 78' lang='lat' dir='ltr'>DISSERTATIO</span> <span class='ocrx_word' id='word_1_9' title='bbox 841 2233 1187 2325; x_wconf 79' lang='lat' dir='ltr'>INAUGURALIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1640 5046">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1640 5046">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1640 5046; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1640 5046; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
